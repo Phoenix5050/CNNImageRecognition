@@ -1,0 +1,4 @@
+permission: yes
+shoe1: m
+shoe2: m
+shoe3: m
